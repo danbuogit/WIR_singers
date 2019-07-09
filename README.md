@@ -3,8 +3,8 @@ This repository is used to store the python scripts used to accomplish the goals
 
 Contributors:
 
--Daniele Buonadonna: SPARQL queries, Dataset creation (lists creation), "blind" method and PageRank results;
+-Daniele Buonadonna: SPARQL queries, Dataset creation (lists creation), "blind" method and PageRank results, evaluation of results;
 
--Eleonora Lopez: Named Entity Recognition, "scraping" method and PageRank results;
+-Eleonora Lopez: Named Entity Recognition, "scraping" method and PageRank results, evaluation of results;
 
 -Umberto di Canito: Dataset creation (scraping Wikipedia pages), retrieving "influences" section.
